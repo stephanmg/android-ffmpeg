@@ -22,7 +22,6 @@ autoreconf --install --force --verbose
         --with-sysroot="$NDK_SYSROOT" \
         --enable-static \
         --disable-shared \
-        --with-ffmpeg \
         --without-libltdl
 
 
